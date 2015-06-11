@@ -4,4 +4,4 @@ This repo contains the robot code for our 2015 robot year. This repository conta
 
 This code was written using National System's LabView for FRC platform.
 
-This repo is a work in progress, and is likely to remain that way throughout the summer.
+I'm still getting this repository set up, so consider it a work in progress. The code itself is no longer under development.
