@@ -1,0 +1,3 @@
+1. "Reset 2" is checking the wrong limit switch.
+		Should be "Fire Limit B" not "Fire Limit F"
+		-> Probably why the motor was cooking
